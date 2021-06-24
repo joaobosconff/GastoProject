@@ -1,0 +1,12 @@
+C:\Users\joaoz\source\repos\GastoProject.DATA\bin\Debug\netcoreapp3.1\GastoProject.DATA.deps.json
+C:\Users\joaoz\source\repos\GastoProject.DATA\bin\Debug\netcoreapp3.1\GastoProject.DATA.runtimeconfig.json
+C:\Users\joaoz\source\repos\GastoProject.DATA\bin\Debug\netcoreapp3.1\GastoProject.DATA.runtimeconfig.dev.json
+C:\Users\joaoz\source\repos\GastoProject.DATA\bin\Debug\netcoreapp3.1\GastoProject.DATA.dll
+C:\Users\joaoz\source\repos\GastoProject.DATA\bin\Debug\netcoreapp3.1\GastoProject.DATA.pdb
+C:\Users\joaoz\source\repos\GastoProject.DATA\obj\Debug\netcoreapp3.1\GastoProject.DATA.AssemblyInfoInputs.cache
+C:\Users\joaoz\source\repos\GastoProject.DATA\obj\Debug\netcoreapp3.1\GastoProject.DATA.AssemblyInfo.cs
+C:\Users\joaoz\source\repos\GastoProject.DATA\obj\Debug\netcoreapp3.1\GastoProject.DATA.csproj.CoreCompileInputs.cache
+C:\Users\joaoz\source\repos\GastoProject.DATA\obj\Debug\netcoreapp3.1\GastoProject.DATA.dll
+C:\Users\joaoz\source\repos\GastoProject.DATA\obj\Debug\netcoreapp3.1\GastoProject.DATA.pdb
+C:\Users\joaoz\source\repos\GastoProject.DATA\obj\Debug\netcoreapp3.1\GastoProject.DATA.genruntimeconfig.cache
+C:\Users\joaoz\source\repos\GastoProject.DATA\obj\Debug\netcoreapp3.1\GastoProject.DATA.csprojAssemblyReference.cache
